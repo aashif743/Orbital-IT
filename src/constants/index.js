@@ -73,7 +73,7 @@ export const navigation = [
   },
   {
     id: "5",
-    title: "Contact Me",
+    title: "Contact Us",
     url: "#contact",
     onlyMobile: true,
   },
