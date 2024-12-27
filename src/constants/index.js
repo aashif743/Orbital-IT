@@ -200,7 +200,7 @@ export const benefits = [
     id: "0",
     title: "Expertise That Inspires Confidence",
     text: "Our team of skilled professionals excels in web, app, software development, and AI-driven solutions, ensuring your project is in expert hands.",
-    backgroundUrl: "./assets/benefits/card-1.svg",
+    backgroundUrl: "/assets/benefits/card-1.svg",
     /*iconUrl: benefitIcon1,
     imageUrl: benefitImage2,*/
   },
@@ -208,7 +208,7 @@ export const benefits = [
     id: "1",
     title: "Tailored Solutions for Unique Needs",
     text: "We understand that no two businesses are the same. That’s why we offer customized solutions designed to meet your specific goals.",
-    backgroundUrl: "./assets/benefits/card-2.svg",
+    backgroundUrl: "/assets/benefits/card-2.svg",
     /*iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,*/
@@ -217,7 +217,7 @@ export const benefits = [
     id: "2",
     title: "Commitment to Innovation",
     text: "We harness the latest technologies and best practices to provide cutting-edge solutions that keep you ahead of the curve.",
-    backgroundUrl: "./assets/benefits/card-3.svg",
+    backgroundUrl: "/assets/benefits/card-3.svg",
     /*iconUrl: benefitIcon3,
     imageUrl: benefitImage2,*/
   },
@@ -225,7 +225,7 @@ export const benefits = [
     id: "3",
     title: "Client-Centric Approach",
     text: "Your success is our priority. We listen, collaborate, and deliver, ensuring every project reflects your vision and exceeds expectations.",
-    backgroundUrl: "./assets/benefits/card-4.svg",
+    backgroundUrl: "/assets/benefits/card-4.svg",
     /*iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
     light: true,*/
@@ -234,7 +234,7 @@ export const benefits = [
     id: "4",
     title: "Global Reach with Local Touch",
     text: "Though we serve clients worldwide, we remain focused on delivering personalized support and attention to every client, big or small.",
-    backgroundUrl: "./assets/benefits/card-5.svg",
+    backgroundUrl: "/assets/benefits/card-5.svg",
     /*iconUrl: benefitIcon1,
     imageUrl: benefitImage2,*/
   },
@@ -242,7 +242,7 @@ export const benefits = [
     id: "5",
     title: "Proven Track Record",
     text: "From startups to enterprises, we’ve helped businesses achieve measurable results through innovative technology solutions.",
-    backgroundUrl: "./assets/benefits/card-6.svg",
+    backgroundUrl: "/assets/benefits/card-6.svg",
     /*iconUrl: benefitIcon2,
     imageUrl: benefitImage2,*/
   },
