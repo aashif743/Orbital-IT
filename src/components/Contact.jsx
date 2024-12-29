@@ -84,7 +84,7 @@ const Contact = () => {
       {/* Main Content: Form and Contact Details */}
       <div className="flex flex-col lg:flex-row lg:gap-18 gap-16 items-center justify-center">
         {/* Form Section */}
-        <div className="lg:w-1/2 w-full flex flex-col items-center lg:text-left w-[140%] -mx-14">
+        <div className="lg:w-1/2 w-full flex flex-col items-center lg:text-left w-[130%] -mx-14">
           <form
             ref={formRef}
             onSubmit={handleSubmit}
