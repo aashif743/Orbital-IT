@@ -254,25 +254,25 @@ export const socials = [
     id: "0",
     title: "TikTok",
     iconUrl: tiktok,
-    url: "#",
+    url: "https://www.tiktok.com/@orbitalitsolutions?_t=ZS-8scWlaZNJCb&_r=1",
   },
   {
     id: "1",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/orbital_it?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
   },
   {
     id: "2",
     title: "Telegram",
     iconUrl: telegram,
-    url: "#",
+    url: "https://t.me/Aashif_743",
   },
   {
     id: "3",
     title: "Facebook",
     iconUrl: facebook,
-    url: "https://web.facebook.com/Aashif743/",
+    url: "#",
   },
 ];
 
