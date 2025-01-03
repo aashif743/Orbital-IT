@@ -163,7 +163,7 @@ const Contact = () => {
                 <FontAwesomeIcon icon={faWhatsapp} className="text-green-500 sm:text-5xl text-4xl text-center" />
                     <div>
                         <h3 className="font-semibold text-lg">Whatsapp</h3>
-                        <p className="text-gray-400">+94 76 785 5743</p>
+                        <p className="text-gray-400">+94 75 785 5743 / +94 76 785 5743</p>
                     </div>
             </div>
 
